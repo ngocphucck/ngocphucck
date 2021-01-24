@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm PHU</h1>
-<h3 align="center">A student in Vietnam university.</h3>
 
 - 🔭 I’m currently working on **Hanoi university of science and technology.**
 
