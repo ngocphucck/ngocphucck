@@ -34,4 +34,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Buckley's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ngocphucck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Buckley's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngocphucck&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
