@@ -2,21 +2,21 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   , I'm Buckley</h1>
   
-## About me
+## 🙋 About me
 
-- 🔭 I’m currently working at **Hanoi University of Science and technology.**
+- 🏫 I’m currently working at **Hanoi University of Science and technology.**
 
-- 🌱 I'm very interested in studying how machine learning and deep learning algorithms work and then applying them to real-world problems. 
+- 🎓 I'm very interested in studying how machine learning and deep learning algorithms work and then applying them to real-world problems. 
 
-- 👯 I'm looking for an internship opportunity as a data scientist or machine learning engineer. 
+- 🔍 I'm looking for an internship opportunity as a data scientist or machine learning engineer. 
 
 - 💬 Ask me about **machine learning, deep learning, data science.**
 
 - 📫 How to reach me **sudodoanphucuchikun@gmail.com**
 
-- ⚡ Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
+- 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
 
-## Connect with me
+## 🏡 Connect with me
 <p align="center">
     <a href="https://kaggle.com/phudoanngoc"><img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/-Kaggle-red?style=social&logo=kaggle&logoColor=blue" height=20 /></a>
      <a href="https://stackoverflow.com/users/11518889"><img alt="StackOverFlow" title="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-red?style=social&logo=stackoverflow&logoColor=orange" height=20 /></a>
@@ -26,11 +26,9 @@
     <a href="https://www.linkedin.com/in/phu-doan-ngoc-8a8a831a0/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-red?style=social&logo=linkedin&logoColor=blue" height=20 /></a>
 </p>
 
-## My favorite tools
+## 🛠️ My favorite tools
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
-
-### Languages
+### 💻 Languages
 
 <p>
     <a href="https://en.wikipedia.org/wiki/Assembly_language" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
@@ -43,41 +41,41 @@
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
     
-### Frameworks and libraries
+### 🌀 Frameworks and libraries
 <p>
-    <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-FB542B?logo=pytorch&logoColor=white"></a>
-    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-CB2029?logo=matplotlib&logoColor=white"></a>
-    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://keras.io/getting_started/"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-CB2029?logo=matplotlib&logoColor=white"></a>
+    <a href="https://mmdetection.readthedocs.io/en/latest/"><img alt="MMDetection" src="https://img.shields.io/badge/-MMDetection-175DDC?logo=mmdetection&logoColor=white"></a>
+    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a> 
+    <a href="https://opencv.org/"><img alt="Opencv" src="https://img.shields.io/badge/OpenCV%20-%23000000.svg?logo=opencv&logoColor=white"></a>
+    <a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-FB542B?logo=pytorch&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-learn" src="https://img.shields.io/badge/ScikitLearn%20-%233B5526.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23327FC7.svg?logo=selenium&logoColor=white"></a>
     <a href="https://seaborn.pydata.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23430098.svg?logo=seaborn&logoColor=white"></a>
-    <a href="https://opencv.org/"><img alt="Opencv" src="https://img.shields.io/badge/OpenCV%20-%23000000.svg?logo=opencv&logoColor=white"></a>
-    <a href="https://mmdetection.readthedocs.io/en/latest/"><img alt="MMDetection" src="https://img.shields.io/badge/-MMDetection-175DDC?logo=mmdetection&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
     
-### Softwares and tools
+### 🚁 Softwares and tools
 <p>
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=PyCharm&logoColor=white"></a>
-    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-141E24?logo=linux&logoColor=white"></a>
-    <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FE7A16?logo=ubuntu&logoColor=white"></a>
-    <a href="dwm.suckless.org/"><img alt="Dwm" src="https://img.shields.io/badge/-DWM-302E31?logo=dwm&logoColor=white"></a>
     <a href="https://awesomewm.org/"><img alt="AwesomeWM" src="https://img.shields.io/badge/AwesomeWM-DD1100.svg?logo=awesomeWM&logoColor=white"></a>
-    <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2334A853.svg?logo=Vim&logoColor=white"></a>
+    <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+    <a href="dwm.suckless.org/"><img alt="Dwm" src="https://img.shields.io/badge/-DWM-302E31?logo=dwm&logoColor=white"></a>
+    <a href="https://www.mozilla.org/en-US/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/Firefox%20-%2320232a.svg?logo=firefox&logoColor=%2361DAFB"></a>
     <a href="https://github.com"><img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white"></a>
     <a href="https://about.gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-FF6C37?logo=gitlab&logoColor=white"></a>
     <a href="colab.research.google.com/"><img alt="GoogleColab" src="https://img.shields.io/badge/-Google%20Colab%20-%23010101.svg?logo=Google%20Colab&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-141E24?logo=linux&logoColor=white"></a>
     <a href="https://www.opera.com/"><img alt="Opera" src ="https://img.shields.io/badge/Opera-%234ea94b.svg?logo=opera&logoColor=white"></a>
-    <a href="https://www.mozilla.org/en-US/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/Firefox%20-%2320232a.svg?logo=firefox&logoColor=%2361DAFB"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=PyCharm&logoColor=white"></a>
+    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FE7A16?logo=ubuntu&logoColor=white"></a>
+    <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2334A853.svg?logo=Vim&logoColor=white"></a>
 </p>
 
-## Stats about me
+## 📊 Stats about me
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 |Github Stats | Top Languages |
