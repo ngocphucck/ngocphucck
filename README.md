@@ -2,11 +2,11 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   , I'm Buckley</h1>
 
-- 🔭 I’m currently working on **Hanoi university of science and technology.**
+- 🔭 I’m currently working at **Hanoi University of Science and technology.**
 
-- 🌱 I’m really excited to undertand how **machine learning, deep learning** algorithms work and apply them in real-world problems.
+- 🌱 I'm very interested in studying how machine learning and deep learning algorithms work and then applying them to real-world problems. 
 
-- 👯 I’m looking for an internship in **Data scientist, ML engineer.**
+- 👯 I'm looking for an internship opportunity as a data scientist or machine learning engineer. 
 
 - 💬 Ask me about **machine learning, deep learning, data science.**
 
