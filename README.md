@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   , I'm Buckley</h1>
   
-## 🙋 About me
+## About me
 
 - 🏫 I’m currently working at **Hanoi University of Science and technology.**
 
@@ -16,7 +16,7 @@
 
 - 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
 
-## 🏡 Connect with me
+## Connect with me
 <p align="center">
     <a href="https://kaggle.com/phudoanngoc"><img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/-Kaggle-red?style=social&logo=kaggle&logoColor=blue" height=20 /></a>
      <a href="https://stackoverflow.com/users/11518889"><img alt="StackOverFlow" title="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-red?style=social&logo=stackoverflow&logoColor=orange" height=20 /></a>
@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/phu-doan-ngoc-8a8a831a0/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-red?style=social&logo=linkedin&logoColor=blue" height=20 /></a>
 </p>
 
-## 🔥 Streak stats
+## Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -33,9 +33,9 @@
   </a>
 </p>
 
-## 🛠️ My favorite tools
+## My favorite tools
 
-### 💻 Languages
+### Languages
 
 <p>
     <a href="https://en.wikipedia.org/wiki/Assembly_language" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
@@ -48,7 +48,7 @@
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
     
-### 🌀 Frameworks and libraries
+### Frameworks and libraries
 <p>
     <a href="https://keras.io/getting_started/"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-CB2029?logo=matplotlib&logoColor=white"></a>
@@ -63,7 +63,7 @@
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
     
-### 🚁 Softwares and tools
+### Softwares and tools
 <p>
     <a href="https://awesomewm.org/"><img alt="AwesomeWM" src="https://img.shields.io/badge/AwesomeWM-DD1100.svg?logo=awesomeWM&logoColor=white"></a>
     <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
@@ -82,7 +82,7 @@
     <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2334A853.svg?logo=Vim&logoColor=white"></a>
 </p>
 
-## 📊 Stats about me
+## Stats about me
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 |Github Stats | Top Languages |
