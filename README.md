@@ -20,8 +20,6 @@
 <p align="center">
     <a href="https://kaggle.com/phudoanngoc"><img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/-Kaggle-red?style=social&logo=kaggle&logoColor=blue" height=20 /></a>
      <a href="https://stackoverflow.com/users/11518889"><img alt="StackOverFlow" title="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-red?style=social&logo=stackoverflow&logoColor=orange" height=20 /></a>
-    <a href="https://fb.com/profile.php?id=100025327176748"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-red?style=social&logo=facebook&logoColor=blue" height=20 /></a>
-    <a href="https://www.reddit.com/user/cuchikun"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-red?style=social&logo=reddit&logoColor=orange" height=20 /></a>
     <a href="https://codeforces.com/profile/cuchikun"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/-Codeforces-red?style=social&logo=codeforces&logoColor=purple" height=20 /></a>
     <a href="https://www.linkedin.com/in/phu-doan-ngoc-8a8a831a0/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-red?style=social&logo=linkedin&logoColor=blue" height=20 /></a>
 </p>
