@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **machine learning, deep learning, data science.**
 
-- 📫 How to reach me **doanphucck1801@gmail.com**
-
 - 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
 
 ## Connect with me
