@@ -6,14 +6,14 @@
 
 - 🏫 I’m currently working at **Hanoi University of Science and technology.**
 
-- 🎓 I'm very interested in studying how machine learning and deep learning algorithms work and then applying them to real-world problems. 
+- 🎓 I'm very interested in the mysteries behind machine learning and deep learning algorithms and the ways to apply them to real-world problems.. 
 
-- 🔍 I'm looking for an internship opportunity as a data scientist or machine learning engineer. 
+- 🔍 I'm looking for an internship opportunity as an artificial intelligence engineer/researcher.
 
-- 💬 Ask me about **machine learning, deep learning, data science.**
+- 💬 Ask me about **machine learning, computer vision, natural language processing.**
 
-- 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
-
+<!-- - 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
+ -->
 ## Connect with me
 <p align="center">
     <a href="https://kaggle.com/phudoanngoc"><img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/-Kaggle-red?style=social&logo=kaggle&logoColor=blue" height=20 /></a>
