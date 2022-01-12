@@ -4,7 +4,7 @@
   
 ## About me
 
-- 🏫 I’m currently working at **Hanoi University of Science and technology.**
+- 🏫 I’m currently working at **Hanoi University of Science and Technology.**
 
 - 🎓 I'm very interested in the mysteries behind machine learning and deep learning algorithms and the ways to apply them to real-world problems.. 
 
