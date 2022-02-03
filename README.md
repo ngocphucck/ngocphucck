@@ -36,12 +36,12 @@
 ### Languages
 
 <p>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
+<!--     <a href="https://en.wikipedia.org/wiki/Assembly_language" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a> -->
     <a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://latex.wikia.org/wiki/LaTeX_language"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+<!--     <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> -->
     <a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
@@ -63,20 +63,20 @@
     
 ### Softwares and tools
 <p>
-    <a href="https://awesomewm.org/"><img alt="AwesomeWM" src="https://img.shields.io/badge/AwesomeWM-DD1100.svg?logo=awesomeWM&logoColor=white"></a>
-    <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="dwm.suckless.org/"><img alt="Dwm" src="https://img.shields.io/badge/-DWM-302E31?logo=dwm&logoColor=white"></a>
-    <a href="https://www.mozilla.org/en-US/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/Firefox%20-%2320232a.svg?logo=firefox&logoColor=%2361DAFB"></a>
+<!--     <a href="https://awesomewm.org/"><img alt="AwesomeWM" src="https://img.shields.io/badge/AwesomeWM-DD1100.svg?logo=awesomeWM&logoColor=white"></a> -->
+<!--     <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a> -->
+<!--     <a href="dwm.suckless.org/"><img alt="Dwm" src="https://img.shields.io/badge/-DWM-302E31?logo=dwm&logoColor=white"></a> -->
+<!--     <a href="https://www.mozilla.org/en-US/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/Firefox%20-%2320232a.svg?logo=firefox&logoColor=%2361DAFB"></a> -->
     <a href="https://github.com"><img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white"></a>
     <a href="https://about.gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-FF6C37?logo=gitlab&logoColor=white"></a>
     <a href="colab.research.google.com/"><img alt="GoogleColab" src="https://img.shields.io/badge/-Google%20Colab%20-%23010101.svg?logo=Google%20Colab&logoColor=white"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+<!--     <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a> -->
     <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-141E24?logo=linux&logoColor=white"></a>
-    <a href="https://www.opera.com/"><img alt="Opera" src ="https://img.shields.io/badge/Opera-%234ea94b.svg?logo=opera&logoColor=white"></a>
+<!--     <a href="https://www.opera.com/"><img alt="Opera" src ="https://img.shields.io/badge/Opera-%234ea94b.svg?logo=opera&logoColor=white"></a> -->
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=PyCharm&logoColor=white"></a>
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FE7A16?logo=ubuntu&logoColor=white"></a>
+<!--     <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=PyCharm&logoColor=white"></a> -->
+<!--     <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FE7A16?logo=ubuntu&logoColor=white"></a> -->
     <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2334A853.svg?logo=Vim&logoColor=white"></a>
 </p>
 
