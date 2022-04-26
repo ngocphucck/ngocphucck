@@ -17,7 +17,7 @@
 ## Connect with me
 <p align="center">
     <a href="https://kaggle.com/phudoanngoc"><img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/-Kaggle-red?style=social&logo=kaggle&logoColor=blue" height=20 /></a>
-     <a href="https://leetcode.com/BuckleyDoan/"><img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/-Leetcode-red/?style=social&logo=leetcode&logoColor=yellow" height=20 /></a>
+     <a href="https://leetcode.com/ngocphucck/"><img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/-Leetcode-red/?style=social&logo=leetcode&logoColor=yellow" height=20 /></a>
      <a href="https://www.hackerrank.com/phudoan1801"><img alt="Hackerrank" title="Leetcode" src="https://img.shields.io/badge/-Hackerrank-green/?style=social&logo=hackerrank&logoColor=black" height=20 /></a>
     <a href="https://codeforces.com/profile/cuchikun"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/-Codeforces-red?style=social&logo=codeforces&logoColor=purple" height=20 /></a>
     <a href="https://www.linkedin.com/in/ngocphucck/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-red?style=social&logo=linkedin&logoColor=blue" height=20 /></a>
