@@ -8,8 +8,6 @@
 
 - 🎓 I'm very interested in the mysteries behind machine learning and deep learning algorithms and the ways to apply them to real-world problems.. 
 
-- 🔍 I'm looking for an internship opportunity as an artificial intelligence engineer/researcher.
-
 - 💬 Ask me about **mathematics, algorithms, computer vision, natural language processing.**
 
 <!-- - 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
