@@ -4,7 +4,7 @@
   
 ## About me
 
-- 🏫 I am currently working at **Hanoi University of Science and Technology.**
+- 🏫 I am currently working at **VinBigdata** as ML engineer.
 
 - 🎓 I am very interested in the mysteries behind machine learning and deep learning algorithms and the ways to apply them to real-world problems.. 
 
@@ -19,15 +19,6 @@
      <a href="https://www.hackerrank.com/phudoan1801"><img alt="Hackerrank" title="Leetcode" src="https://img.shields.io/badge/-Hackerrank-green/?style=social&logo=hackerrank&logoColor=black" height=20 /></a>
     <a href="https://codeforces.com/profile/cuchikun"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/-Codeforces-red?style=social&logo=codeforces&logoColor=purple" height=20 /></a>
     <a href="https://www.linkedin.com/in/ngocphucck/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-red?style=social&logo=linkedin&logoColor=blue" height=20 /></a>
-</p>
-
-## Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ngocphucck&theme=monokai-metallian&hide_border=true"/>
-  </a>
 </p>
 
 ## My favorite tools
