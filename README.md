@@ -1,29 +1,15 @@
-<h1 align="center">Hi 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  , I'm Buckley</h1>
-  
-## About me
-
-- 🏫 I am currently working at **VinBigdata** as ML engineer.
-
-- 🎓 I am very interested in the mysteries behind machine learning and deep learning algorithms and the ways to apply them to real-world problems.. 
-
-- 💬 Ask me about **mathematics, algorithms, computer vision, natural language processing.**
+### Ngoc Phu Doan (Buckley)
+- AI Researcher at <a href="https://en.hust.edu.vn/">HUST</a>, ML Engineer at <a href="https://institute.vinbigdata.org/en/">Vinbigdata Institute</a>.
+- Portfolio: [ngocphucckdev.net](https://ngocphucckdev.net).
+- I write my personal thoughts on Programming & Artificial Intelligence on my blog: [ngocphucckdev.net](https://ngocphucckdev.net).
+- Let's connect on [linkedin](https://www.linkedin.com/in/ngocphucck).
+- Contact me via [contacts](https://ngocphucckdev.net/contact.html).
 
 <!-- - 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
  -->
-## Connect with me
-<p align="center">
-    <a href="https://kaggle.com/phudoanngoc"><img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/-Kaggle-red?style=social&logo=kaggle&logoColor=blue" height=20 /></a>
-     <a href="https://leetcode.com/ngocphucck/"><img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/-Leetcode-red/?style=social&logo=leetcode&logoColor=yellow" height=20 /></a>
-     <a href="https://www.hackerrank.com/phudoan1801"><img alt="Hackerrank" title="Leetcode" src="https://img.shields.io/badge/-Hackerrank-green/?style=social&logo=hackerrank&logoColor=black" height=20 /></a>
-    <a href="https://codeforces.com/profile/cuchikun"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/-Codeforces-red?style=social&logo=codeforces&logoColor=purple" height=20 /></a>
-    <a href="https://www.linkedin.com/in/ngocphucck/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-red?style=social&logo=linkedin&logoColor=blue" height=20 /></a>
-</p>
 
-## My favorite tools
+### My technologies
 
-### Languages
 
 <p>
 <!--     <a href="https://en.wikipedia.org/wiki/Assembly_language" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a> -->
@@ -34,9 +20,9 @@
 <!--     <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> -->
     <a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="dwm.suckless.org/"><img alt="html" src="https://img.shields.io/badge/-HTML-302E31?logo=html&logoColor=white"></a>
 </p>
     
-### Frameworks and libraries
 <p>
     <a href="https://keras.io/getting_started/"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-CB2029?logo=matplotlib&logoColor=white"></a>
@@ -51,7 +37,6 @@
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
     
-### Softwares and tools
 <p>
 <!--     <a href="https://awesomewm.org/"><img alt="AwesomeWM" src="https://img.shields.io/badge/AwesomeWM-DD1100.svg?logo=awesomeWM&logoColor=white"></a> -->
 <!--     <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a> -->
