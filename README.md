@@ -1,5 +1,5 @@
 ### Ngoc Phu Doan (Buckley)
-<img align="right" alt="Coder GIF" height=180 src="assets/frame2.png" />
+<img align="right" alt="Coder GIF" height=220 src="assets/frame2.png" />
 
 
 <br>
