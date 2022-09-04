@@ -7,7 +7,7 @@
 - AI Researcher at <a href="https://en.hust.edu.vn/">HUST</a>, ML Engineer at <a href="https://institute.vinbigdata.org/en/">Vinbigdata Institute</a>.
 - Portfolio: [ngocphucckdev.net](https://ngocphucckdev.net).
 - Resume PDF: [resume.ngocphucckdev.net](https://resume.ngocphucckdev.net).
-- Personal blog: [ngocphucckdev.net](https://blog.ngocphucckdev.net).
+- Personal blog: [blog.ngocphucckdev.net](https://blog.ngocphucckdev.net).
 - Let's connect on [linkedin](https://www.linkedin.com/in/ngocphucck).
 - Contact me via [contacts](https://ngocphucckdev.net/contact.html).
 
