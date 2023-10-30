@@ -63,9 +63,8 @@
 <!--     <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2334A853.svg?logo=Vim&logoColor=white"></a> -->
 </p>
 
-<details>
- <summary> <h3>Stats about me</h3> </summary>
- <br>
+### Stats about me
+<br>
 <!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br>
@@ -78,4 +77,3 @@
 |-------------|---------------|
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Buckley's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ngocphucck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Buckley's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngocphucck&langs_count=8&layout=compact&theme=react&hide=c,jupyter&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>|
 </br>
-</details>
