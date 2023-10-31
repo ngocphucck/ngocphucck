@@ -56,11 +56,11 @@
 <!--     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> -->
 <!--     <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a> -->
 <!--     <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-141E24?logo=linux&logoColor=white"></a> -->
-<!--     <a href="https://www.opera.com/"><img alt="Opera" src ="https://img.shields.io/badge/Opera-%234ea94b.svg?logo=opera&logoColor=white"></a> -->
-<!--     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a> -->
+    <a href="https://www.react.dev/"><img alt="React" src ="https://img.shields.io/badge/React-%234ea94b.svg?logo=react&logoColor=white"></a>
+    <a href="https://www.nodejs.org/"><img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-%23316192.svg?logo=node.js&logoColor=white"></a>
 <!--     <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=PyCharm&logoColor=white"></a> -->
-<!--     <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FE7A16?logo=ubuntu&logoColor=white"></a> -->
-<!--     <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2334A853.svg?logo=Vim&logoColor=white"></a> -->
+    <a href="https://mongodb.com/"><img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-0078d7?logo=Mongodb&logoColor=white"></a>
+    <a href="https://www.docker.org/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%2334A853.svg?logo=Docker&logoColor=white"></a>
 </p>
 
 ### Stats about me
