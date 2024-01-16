@@ -4,12 +4,16 @@
 
 <br>
 
-- AI Researcher at <a href="https://en.hust.edu.vn/">HUST</a>, ML Engineer at <a href="https://institute.vinbigdata.org/en/">Vinbigdata Institute</a>, Software Engineer at <a href="https://vnggames.com">VNG</a>.
-- Portfolio: [ngocphucckdev.net](https://ngocphucckdev.net).
+- Experience:
+  - PhD Student at <a href="https://www.qub.ac.uk">Queen's University Belfast</a>
+  - AI Researcher at <a href="https://en.hust.edu.vn/">HUST</a>
+  - ML Engineer at <a href="https://institute.vinbigdata.org/en/">Vinbigdata Institute</a>
+  - Software Engineer at <a href="https://vnggames.com">VNG</a>.
+<!-- - Portfolio: [ngocphucckdev.net](https://ngocphucckdev.net).
 - Resume PDF: [resume.ngocphucckdev.net](https://resume.ngocphucckdev.net).
-- Personal blog: [blog.ngocphucckdev.net](https://blog.ngocphucckdev.net).
-- Let's connect on [linkedin](https://www.linkedin.com/in/ngocphucck).
-- Contact me via [contacts](https://ngocphucckdev.net/contact.html).
+- Personal blog: [blog.ngocphucckdev.net](https://blog.ngocphucckdev.net). -->
+- Let's connect on [linkedin](https://www.linkedin.com/in/ngocphucck). 
+- Contact me via [email](doanphucck1801@gmail.com).
 
 <!-- - 🌠 Fun fact **My alaska dog in my picture profile is drawn by an artist named GAN :smile:**.
  -->
