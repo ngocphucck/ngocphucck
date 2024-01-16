@@ -8,7 +8,7 @@
   - PhD Student at <a href="https://www.qub.ac.uk">Queen's University Belfast</a>
   - AI Researcher at <a href="https://en.hust.edu.vn/">HUST</a>
   - ML Engineer at <a href="https://institute.vinbigdata.org/en/">Vinbigdata Institute</a>
-  - Software Engineer at <a href="https://vnggames.com">VNG</a>.
+  - Software Engineer at <a href="https://vnggames.com">VNG</a>
 <!-- - Portfolio: [ngocphucckdev.net](https://ngocphucckdev.net).
 - Resume PDF: [resume.ngocphucckdev.net](https://resume.ngocphucckdev.net).
 - Personal blog: [blog.ngocphucckdev.net](https://blog.ngocphucckdev.net). -->
